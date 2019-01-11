@@ -1,0 +1,49 @@
+Agonus cataphractus
+Hyperoplus lanceolatus
+Ammodytes marinus
+Ammodytes tobianus
+Belone belone
+Arnoglossus
+Callionymus
+Trachurus trachurus
+Sprattus sprattus
+Clupea harengus
+Clupea
+Notesthes robusta
+Cyclopterus lumpus
+Trisopterus luscus
+Trisopterus
+Gadus morhua
+Pollachius pollachius
+Trisopterus minutus
+Merlangius merlangus
+Gobius niger
+Pomatoschistus microps
+Pomatoschistus minutus
+Rhinogobius
+Labrus mixtus
+Ciliata mustela
+Enchelyopus cimbrius
+Gaidropsarus vulgaris
+Merluccius merluccius
+Osmerus eperlanus
+Dicentrarchus labrax
+Lampetra fluviatilis
+Petromyzon marinus
+Pholis gunnellus
+Hippoglossus hippoglossus
+Limanda limanda
+Platichthys flesus
+Hippoglossoides platessoides
+Pleuronectes platessa
+Glyptocephalus cynoglossus
+Scophthalmus rhombus
+Zeugopterus punctatus
+Scophthalmus maximus
+Scophthalmus
+Solea solea
+Buglossidium luteum
+Trachinus draco
+Eutrigla gurnardus
+Zoarces viviparus
+Salmo salar
